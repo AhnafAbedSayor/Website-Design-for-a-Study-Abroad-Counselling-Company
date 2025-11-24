@@ -30,4 +30,4 @@ A modern, responsive website for a study abroad counselling company, featuring a
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/AhnafAbedSayor/Website-Design-for-a-Study-Abroad-Counselling-Company.git](https://github.com/AhnafAbedSayor/Website-Design-for-a-Study-Abroad-Counselling-Company.git)
+   git clone https://github.com/AhnafAbedSayor/Website-Design-for-a-Study-Abroad-Counselling-Company.git
